@@ -2,7 +2,7 @@ Installation:
 
 To install from Github, use the devtools R package:
 
-devtools::install_github("wheelerb/source")
+devtools::install_github("wheelerb/Immunotherapy.Design/source")
 
 Alternatively, download the package and follow the steps below.
 
