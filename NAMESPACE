@@ -1,8 +1,0 @@
-import(stats)
-import(utils)
-import(survival)
-import(msm)
-useDynLib(Immunotherapy.Design)
-export(Pembedded.EM.NP, getHazard, Pembedded.EM.P, generate_data,
-       Pembedded.ReRandomizationTest.NP, Pembedded.ReRandomizationTest.P,
-       Pow.Pembedded.P, N.Pembedded.P, Pow.Pembedded.NP)
